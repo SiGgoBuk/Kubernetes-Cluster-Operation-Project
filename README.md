@@ -1,4 +1,4 @@
-# ☸️ Kubernetes Cluster Operation Project
+# Kubernetes Cluster Operation Project
 
 > CKA(Certified Kubernetes Administrator) 실전 시나리오 기반 쿠버네티스 클러스터 운영 실습 — 백업/업그레이드 · RBAC · 스케줄링 · 네트워킹 · 스토리지
 
