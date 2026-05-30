@@ -4,7 +4,6 @@
 
 
 ## 자료
-
 [Kubernetes Project HISTORY.pdf](./1_history_kubernetesproject.pdf)
 ---
 
