@@ -2,9 +2,6 @@
 
 > CKA(Certified Kubernetes Administrator) 실전 시나리오 기반 쿠버네티스 클러스터 운영 실습 — 백업/업그레이드 · RBAC · 스케줄링 · 네트워킹 · 스토리지
 
-
-## 자료
-[Kubernetes Project HISTORY.pdf](./1_history_kubernetesproject.pdf)
 ---
 
 ## 개요
@@ -558,3 +555,6 @@ spec:
 | **스토리지** | emptyDir, hostPath, PersistentVolume, PersistentVolumeClaim |
 
 ---
+
+## 자료
+[Kubernetes Project HISTORY.pdf](./1_history_kubernetesproject.pdf)
